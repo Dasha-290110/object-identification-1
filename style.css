@@ -1,0 +1,21 @@
+
+.heading
+{
+font-size: 50px;
+width: 100%;
+margin: 0px;
+border:  solid black;
+}
+
+
+ 
+ body{
+     background-size: cover;
+     background-position: center;
+ }
+
+.room{
+    font-size: 50px;
+    color: white;
+    border:  solid black;
+}
